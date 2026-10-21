@@ -1,39 +1,23 @@
-## Hi there 👋
+# GTK
 
-## 🇩🇪 Deutsch
+Steuerberatung und digitale Lösungen für den E-Commerce.
 
-Dieses Repository enthält erste Informationen, Konzepte und ggf. öffentliche Artefakte rund um **steuerberaterecommerce.de**.
+## Unternehmen
 
-🙋‍♀️ **Worum geht es?**  
-steuerberaterecommerce.de ist eine spezialisierte Steuerberatung für E-Commerce-Unternehmen. Der Fokus liegt auf Onlinehandel, Marktplätzen (z. B. Amazon FBA), internationaler Umsatzsteuer, OSS/IOSS sowie digitalisierten und automatisierten Prozessen.
+**GTK Kröger E-Com Steuerberater GmbH & Co. KG**  
+[steuerberaterecommerce.de](https://www.steuerberaterecommerce.de)
 
-👩‍💻 **Zweck dieses Repositories**  
-- Überblick über fachliche und technologische Schwerpunkte  
-- Öffentliche Konzepte, Beispiele oder Referenzen  
-- Grundlagen für Automatisierung, Datenflüsse und Schnittstellen im E-Commerce-Umfeld
-
-🌈 **Mitwirken**  
-Aktuell ist keine externe Mitwirkung vorgesehen. Hinweise oder Feedback können über Issues eingebracht werden.
-
-📚 **Weitere Informationen**  
-➡ https://www.steuerberaterecommerce.de
+**GTK VATpilot GmbH**  
+[vatpilot.de](https://www.vatpilot.de)
 
 ---
 
-## 🇬🇧 English
+Tax advisory and digital solutions for e-commerce.
 
-This repository contains initial information, concepts, and potentially public artifacts related to **steuerberaterecommerce.de**.
+## Companies
 
-🙋‍♀️ **What is this about?**  
-steuerberaterecommerce.de is a tax advisory firm specialized in e-commerce businesses. The focus is on online retail, marketplaces (e.g. Amazon FBA), international VAT, OSS/IOSS, and highly digitalized and automated processes.
+**GTK Kröger E-Com Steuerberater GmbH & Co. KG**  
+[steuerberaterecommerce.de](https://www.steuerberaterecommerce.de)
 
-👩‍💻 **Purpose of this repository**  
-- Overview of professional and technical focus areas  
-- Public concepts, examples, or references  
-- Foundations for automation, data flows, and integrations in the e-commerce domain
-
-🌈 **Contributing**  
-External contributions are currently not planned. Feedback or suggestions may be submitted via issues.
-
-📚 **Further information**  
-➡ https://www.steuerberaterecommerce.de
+**GTK VATpilot GmbH**  
+[vatpilot.de](https://www.vatpilot.de)
